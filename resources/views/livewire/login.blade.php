@@ -15,7 +15,7 @@
                             <div class="card-body px-lg-5 pt-0" x-data="{resetpassword : false,success:@entangle('success')}" x-transition.fade>
                                 <div class="" x-show="resetpassword == false" >
                                     <div class="text-muted mb-4">
-                                        <small>Login to Continu</small>
+                                        <small>Login to Continue</small>
                                     </div>
                                     <form role="form" class="text-start">
                                         <div class="mb-3">
